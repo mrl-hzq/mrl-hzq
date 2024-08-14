@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mrl-hzq, currently a fresh grad student looking for a job!
+- 👋 Hi, I’m @mrl-hzq, currently workign as a Application Developer!
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently using React.js and flask!
 - 📫 I can be reach via email at mrlhzq1216@gmail.com
 - 👨 Here's my linkedin profile www.linkedin.com/in/amirul1216
 
