@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrl-hzq, currently workign as a Application Developer!
+- 👋 Hi, I’m @mrl-hzq, currently working as a Application Developer!
 - 👀 I’m interested in Programming
 - 🌱 I’m currently using React.js and flask!
 - 📫 I can be reach via email at mrlhzq1216@gmail.com
